@@ -1,0 +1,27 @@
+.box{
+    display: inline-block; /* Controla estructuras*/
+    width: 100px; /*Ancho*/
+    height: 100px;/*Altura*/
+    background: purple; /*Fondo*/
+    color: white;/*Color texto*/
+}
+
+  #two{
+     position: abosulte;
+     top: 20px;
+     left: 20px;
+     background-color:purple;
+    }
+    #three{
+        position: abosulte;
+        top: 20px;
+        left: 20px;
+        background-color: blueviolet;
+    }
+
+.texto1{
+    width: 600px;
+    height: 400px;
+    overflow: visible;
+    padding-left: 150px;
+}
